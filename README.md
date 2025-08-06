@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Chinchien Lin
+
+**Software Developer @ [Auckland Bioengineering Institute](https://www.auckland.ac.nz/en/abi.html)  
+Auckland, New Zealand**
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a passionate software developer focused on building robust solutions in biomedical engineering and scientific research. At the Auckland Bioengineering Institute, I work on projects that bridge software development, DevOps, and data science—transforming complex biomedical data into actionable insights.
+
+---
+
+### 🛠️ Skills & Interests
+
+- **Software Development:** Python, DevOps, automation
+- **Image Processing & Analysis:** Advanced image analysis and visualization
+- **Data Management:** Organizing and analyzing scientific data at scale
+- **Research Computing:** Supporting cutting-edge research with technology
+
+---
+
+### 🌟 Featured Projects
+
+- **[Visualizing the human olfactory projection and ancillary structures in a 3D reconstruction](https://www.researchgate.net/publication/385658940_Visualizing_the_human_olfactory_projection_and_ancillary_structures_in_a_3D_reconstruction)**  
+  Developed tools for 3D visualization and analysis of human olfactory structures.
+
+- **[Vision for the 12 LABOURS Digital Twin Platform](https://www.researchgate.net/publication/376426020_Vision_for_the_12_LABOURS_Digital_Twin_Platform)**  
+  Contributed to the vision and architecture for a digital twin platform in biomedical engineering.
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinchien-lin-830790175/)
+
+---
 
 <!--
-**chinchien-lin/chinchien-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out or check out my projects. Let's connect and collaborate!
 -->
