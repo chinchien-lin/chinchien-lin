@@ -16,7 +16,7 @@ I'm a passionate software developer working on building robust solutions in biom
 - **Software Development:** Python, DevOps, automation
 - **Image Processing & Analysis:** Advanced image analysis and visualization
 - **Data Management:** Organizing and analyzing scientific data at scale
-- **cCloud Computing:** Supporting cutting-edge research with technology
+- **Cloud Computing:** Supporting cutting-edge research with technology
 
 ---
 
