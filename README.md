@@ -7,7 +7,7 @@ Auckland, New Zealand**
 
 ### 🧑‍💻 About Me
 
-I'm a passionate software developer focused on building robust solutions in biomedical engineering and scientific research. At the Auckland Bioengineering Institute, I work on projects that bridge software development, DevOps, and data science—transforming complex biomedical data into actionable insights.
+I'm a passionate software developer working on building robust solutions in biomedical engineering and scientific research. At the Auckland Bioengineering Institute, I am invloded in multiple research groups and work on projects that bridge software development, DevOps, and data science, and transform complex biomedical data into actionable insights.
 
 ---
 
