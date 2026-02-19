@@ -14,7 +14,7 @@ I'm a passionate software developer working on building robust solutions in biom
 ### 🛠️ Skills & Interests
 
 - **Software Development:** Python, DevOps, automation
-- **Image Processing & Visualization:** Advanced image analysis and visualization
+- **Image Processing & Visualization:** image analysis and visualization
 - **Data Management:** Organizing and analyzing scientific data at scale
 - **Cloud Computing:** Supporting cutting-edge research with high perfromance computing
 
